@@ -17,6 +17,6 @@ public class App {
     }
     @GetMapping("/get-policy")
     public String getName() {
-        return "policy";
+        return "policy-server";
     }
 }

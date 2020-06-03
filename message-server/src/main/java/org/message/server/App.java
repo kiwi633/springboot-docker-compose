@@ -13,6 +13,6 @@ public class App {
     }
     @GetMapping("/get-message")
     public String getName() {
-        return "say hello！";
+        return "message-server";
     }
 }

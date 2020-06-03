@@ -13,6 +13,6 @@ public class App {
     }
     @GetMapping("/get-name")
     public String getName() {
-        return "customer";
+        return "customer-server";
     }
 }
