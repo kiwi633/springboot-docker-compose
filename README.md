@@ -1,2 +1,3 @@
 # springboot-docker-compose
-use docker-compose tool build services
+
+一个微服务的简单架构，通过Docker-compose工具来进行管理。
